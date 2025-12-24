@@ -1,0 +1,7 @@
+{
+  "name": "Copy of CubeCraft",
+  "description": "O simulador voxel definitivo de última geração. Explore terrenos infinitos gerados proceduralmente com iluminação dinâmica realista e conte com o auxílio de um Guia de IA nativo via Gemini Live API. No CubeCraft, você não apenas joga, você molda a realidade bloco por bloco em uma experiência imersiva de alta fidelidade.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
